@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ActivityMain</string>
+    <string name="app_name">Rss悦读</string>
+    <string name="input_hint1">请输入需要订阅的博客ＲＳＳ</string>
+    <string name="input_hint2">请输入博客名称</string>
+    <string name="alert_dialog_cancel">取消</string>
+     <string name="alert_dialog_text_entry">输入</string>
+     <string name="alert_dialog_ok">确定</string>
+</resources>
